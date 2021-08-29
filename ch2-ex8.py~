@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+base = input("Please enter the number's base:")
+exponent = input("Please enter the number's exponent:")
+print(int(base) ** int(exponent))

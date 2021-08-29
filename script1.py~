@@ -9,5 +9,5 @@ print(2 ** 100)
 x = 'Spam!'
 print(x * 8)
 print('Hello world, wasn\'t I supposed to say that first?')
-#print('Derka derka derka!')
+print('Derka derka derka!')
 input()
